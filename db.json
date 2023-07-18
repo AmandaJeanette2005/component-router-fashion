@@ -1,0 +1,100 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "json-server",
+        "author": "typicode"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": [{
+      "name": "typicode"
+    }],
+  
+    "skincare":[
+      {
+        "id":1,
+        "name":"Revive Potion 3% Arbutin + Bakuchiol",
+        "image": "https://images.somethinc.com/uploads/products/thumbs/800x800/SERUM-10.jpg",
+        "description": "Contains Alpha Arbutin, Bakuchiol & SabiWhite® to Maximize Brightening Result",
+        "caption":"SUPERSTAR MAX BRIGHTENING SKIN RESULT A serum infused with 3 Superstar Brightening Agent that produce Maximum Brightening Result, namely Alpha Arbutin, SabiWhite®, & Bakuchiol which are able to brighten & even out skin tone without side effects. It is enhanced with Bakuchiol which is able to protect skin from pollution and free radicals, fade hyperpigmentation and prevent premature aging. #SKINSOLVER"
+      },{
+        "id":2,
+        "name":"Dark Spot Reducer Ampoule",
+        "image": "https://images.somethinc.com/uploads/products/thumbs/800x800/SERUM-22.jpg",
+        "description": "Corrects Dark Spot & Hyperpigmentation ",
+        "caption":"Dark Spot? Acne Scar? No More! PIH & PIE Targeted Treatment Ampoule that is formulated with a combination of the best ingredients & clinically tested active ingredients one of which is Tranexamoyl Dipeptide-23, functions as a double brightening effect without causing skin irritation. It is also able to even out skin tone, brighten up skin, reduce acne scars & dark spots. #SKINSOLOVER"
+      },{
+        "id":3,
+        "name":"Lemonade Waterless Vitamin C + Ferulic + NAG",
+        "image": "https://images.somethinc.com/uploads/products/thumbs/800x800/SERUM-25.jpg",
+        "description": "Contains Ethyl Ascorbic Acid to Give Radiant Bright & Luminous Skin in 4 Weeks ",
+        "caption":"Potent Antioxidant Brightening Waterless Vit. C Inspired by the glowing look of Korean Glass Skin, this serum combines trio powerful brightening & antioxidant agents: Vitamin C (EAA) & NAG & Ferulic, which have a perfect synergistic effect to brighten up skin, also 67% Jeju lemon extract water which is rich in antioxidants, hence it is effective to Reduce dark spots, wrinkles & the appearance of fine lines. Equipped with Ethyl Ascorbic Acid (EAA) which has been clinically proven to be able to brighten skin in 4 weeks. Get a Fresh Juicy Glass Skin Effect like Korean celebrities. To achieve a more effective result, always use sunscreen in the morning. #SKINSOLVER"
+      }
+      
+    ],
+    "shoes":[
+      {
+        "id":1,
+        "image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/81f9df54-d1c9-4afb-884e-9d5cce6bb34c/jordan-stay-loyal-2-shoes-sDkgDk.png" ,
+        "name": "Jordan Stay Loyal 2 Men's Shoes",
+        "price": "Rp 1,819,000"
+      },{
+        "id":2,
+        "image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4b97494a-b21a-4b01-ac0e-fe0dac87f125/lebron-nxxt-gen-ep-basketball-shoes-bkxBVS.png" ,
+        "name": "LeBron NXXT Gen EP Basketball Shoes",
+        "price": "Rp 2,489,000"
+      },{
+        "id":3,
+        "image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4b259023-d78d-4e10-884f-e15c63acb0b1/zion-2-full-moon-pf-basketball-shoes-fTg9sH.png" ,
+        "name": "Zion 2 'Full Moon' PF Basketball Shoes",
+        "price": "Rp 2,199,000"
+      },{
+        "id":4,
+        "image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d926275d-2c7e-4ed5-8a1b-43084bc7e6da/team-hustle-d-11-older-basketball-shoes-q4t8cZ.png" ,
+        "name": "Nike Team Hustle D 11 Older Kids",
+        "price": "Rp 899,000"
+      },{
+        "id":5,
+        "image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0f44c582-23ba-4212-941a-fd99b9ab899b/air-jordan-5-retro-shoes-Zts2wQ.png" ,
+        "name": "Air Jordan 5 Retro Women's Shoes",
+        "price": "Rp 3,049,000"
+      },{
+        "id":6,
+        "image":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/a2e2ba8f-5b2f-4e06-a566-a14bd0060c41/kd-trey-5-ep-basketball-shoes-mkllTG.png" ,
+        "name": "KD Trey 5 X EP Basketball Shoes",
+        "price": "Rp 1,349,000"
+  
+      },{
+        "id":7,
+        "image":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/47d9a468-f374-422c-8673-b150fad3ea5b/jordan-stay-loyal-2-shoes-sDkgDk.png" ,
+        "name": "Jordan Stay Loyal 2 Men's Shoes",
+        "price": "Rp 1,548,000"
+  
+      },{
+        "id":8,
+        "image":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/8c306596-86de-4fdd-9db9-3ef4bd1cb3fc/lebron-witness-7-ep-basketball-shoes-FKPXCg.png" ,
+        "name": "LeBron Witness 7 EP Basketball Shoes",
+        "price": "Rp 1,499,000"
+  
+      },{
+        "id":9,
+        "image":"https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/97d297bd-e11b-412a-8f7d-6bc7ffd3547e/cosmic-unity-3-basketball-shoes-5H00hb.png" ,
+        "name": "Cosmic Unity 3 Basketball Shoes",
+        "price": "Rp 2,489,000"
+  
+      },{
+        "id":10,
+        "image":"https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/7c6d2fe1-bc70-4cbd-9b90-4febdaf38c0b/jordan-one-take-4-pf-shoes-cdsVn1.png" ,
+        "name": "Jordan One Take 4 PF Men's Shoes",
+        "price": "Rp 1,499,000"
+  
+      }
+    ]
+  }
